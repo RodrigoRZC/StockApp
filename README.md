@@ -229,12 +229,9 @@ Proyecto desarrollado como práctica final de la materia de Programación para D
 
 | Integrante | Módulo desarrollado |
 |---|---|
-| Integrante 1 | Entidades y configuración de Room |
-| Integrante 2 | DAO e interfaces de consulta |
-| Integrante 3 | ViewModel y Repository (lógica MVVM) |
-| Integrante 4 | Interfaz de usuario con Jetpack Compose |
-| Integrante 5 | Exportación CSV, fechas y detección de vencimiento |
+| Marcela Ayala Gómez. | Entidades y configuración de Room |
+| Ignacio Lauriano Méndez Ocaña. | DAO e interfaces de consulta |
+| Rodrigo Zúñiga Castro | ViewModel, Repository (lógica MVVM) e IU |
+| Abril Nucamendi Guizar | Exportación CSV, fechas y detección de vencimiento |
 
 ---
-
-*Última actualización: mayo 2026*
